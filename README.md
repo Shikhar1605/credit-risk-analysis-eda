@@ -84,3 +84,13 @@ The analysis includes 8 key visualizations focused on understanding credit score
 
 # Conclusion
 This project highlights that creditworthiness is driven more by financial behavior than income or demographics, emphasizing the importance of payment discipline and responsible credit usage.
+
+---
+
+# Dataset
+The dataset is not included in this repository due to size limitations.
+
+You can download it from the following link:
+https://drive.google.com/file/d/1PWWyZqqtqegWn1khWyd3R1-3g__2TDZ6/view?usp=drive_link
+
+After downloading, place the file in the same directory as the notebook before running the code.
